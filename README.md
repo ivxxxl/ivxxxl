@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Mitya" width="100%">
+  <img src="assets/banner.jpg" alt="Митя" width="100%">
 </p>
 
-<h1 align="center">Привет, я Mitya</h1>
+<h1 align="center">Привет, я Митя</h1>
 
 <p align="center">
   <img src="assets/typing.svg" alt="если чего-то нет — сделаю сам" height="40">
